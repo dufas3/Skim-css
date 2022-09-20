@@ -1,0 +1,31 @@
+h1{
+	font-size: 3em;
+	font-family: 'Arial', "Tahoma", cursive;
+	text-align: justify;
+}
+
+h2, h3{
+	font-size: 2.5em;
+	font-family: "Open Sans", sans-serif;
+	font-style: italic;
+	text-transform: uppercase;
+	text-align: justify;
+}
+
+p{
+	font-size: 1.2em;
+	font-family: "Cairo Play", cursive;
+	text-align: left; /*left right center justify*/
+}
+
+.bold-text{
+	font-weight: bold;
+	text-decoration: underline;
+}
+a{
+	text-decoration: none;
+}
+.fa-youtube{
+	color: tomato;
+	font-size: 5em;
+}
